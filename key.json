@@ -1,4 +1,23 @@
 {
-    "username": "rii123",
-    "password": "myproject"
+  "allowedIps": [],
+  "users": [
+    {
+      "whatsappNumber": "089507562262",
+      "password": "rafael"
+    },
+    {
+      "whatsappNumber": "083846147781",
+      "password": "123"
+    }
+  ],
+  "approvedUsers": [
+    {
+      "whatsappNumber": "089507562262",
+      "token": "rafael123"
+    },
+    {
+      "whatsappNumber": "083846147781",
+      "token": "rafael123"
+    }
+  ]
 }
