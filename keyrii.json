@@ -2,8 +2,8 @@
   "allowedIps": [],
   "users": [
     {
-      "whatsappNumber": "083857564133",
-      "password": "rafael"
+      "whatsappNumber": "0857621318948",
+      "password": "riikeren"
     },
     {
       "whatsappNumber": "083846147781",
@@ -12,8 +12,8 @@
   ],
   "approvedUsers": [
     {
-      "whatsappNumber": "083857564133",
-      "token": "rafael123"
+      "whatsappNumber": "0857621318948",
+      "token": "riikeren123"
     },
     {
       "whatsappNumber": "083846147781",
